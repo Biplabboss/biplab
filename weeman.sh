@@ -3,4 +3,8 @@
 
 
 
-git clone https://github.com/samyoyo/weeman.git
+git clone https://github.com/evait-security/weeman.git
+sleep 5
+cd biplab/weeman
+python2 weeman.py
+
