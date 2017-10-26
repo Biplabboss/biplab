@@ -1,6 +1,6 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/data/data/com.termux/files/home
 
 
-pkg install -y python2
-pkg install -y git
+
+
 git clone https://github.com/samyoyo/weeman.git
